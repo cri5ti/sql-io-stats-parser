@@ -1,0 +1,29 @@
+html {
+  font: 13px Arial;
+}
+
+table {
+  border-collapse: collapse;
+  border-color: #ddd;
+}
+
+thead td,
+tfoot td {
+  background: #ddd;
+  font-weight: bold;
+}
+
+td {
+  padding: 2px;
+}
+
+.ar {
+  text-align: right;
+}
+
+
+textarea {
+  font: 10px 'Courier New';
+  width: 100%;
+  height: 5em;
+}
