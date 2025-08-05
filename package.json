@@ -31,7 +31,3 @@
     "test": "echo \"No test runner configured\" && exit 0"
   }
 }
-    "not ie <= 11",
-    "not op_mini all"
-  ]
-}
